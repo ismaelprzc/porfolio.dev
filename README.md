@@ -1,5 +1,4 @@
 # Portfolio Ismael Pérez.
-## Programmers & Developers
 
 ## First version.
 <img width="1875" height="1264" alt="image" src="https://github.com/user-attachments/assets/5448bac0-9251-4bdf-8bd8-2d406fe85910" />
